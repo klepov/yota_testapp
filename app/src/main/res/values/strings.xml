@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">yota_testapp</string>
+    <string name="url">Введите URL</string>
+    <string name="show">отобразить</string>
+    <string name="invalid_url"><![CDATA[URL не валиден. URL должен иметь вид - http://<имя_сайта>.домен]]></string>
+    <string name="domain_not_found">Домен не найден</string>
+    <string name="wait">ждите</string>
+</resources>
